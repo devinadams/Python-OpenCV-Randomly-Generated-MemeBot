@@ -9,6 +9,6 @@ All the preconfigured templates can be found here: https://drive.google.com/open
 
 And a bunch of useable source images can be found here but anything works: https://drive.google.com/open?id=1QIMCjejYn_NCVaF4lHuc8J5KyHHMG4dh
 
-Here's an example of ![output](https://raw.githubusercontent.com/devinadams/Python-OpenCV-Randomly-Generated-MemeBot/master/out-23.png)
+Here's an example of output: ![output](https://raw.githubusercontent.com/devinadams/Python-OpenCV-Randomly-Generated-MemeBot/master/out-23.png)
 
 Requires OpenCV
