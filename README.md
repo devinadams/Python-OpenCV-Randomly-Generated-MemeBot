@@ -11,4 +11,6 @@ And a bunch of useable source images can be found here but anything works: https
 
 Here's an example of output: ![output](https://raw.githubusercontent.com/devinadams/Python-OpenCV-Randomly-Generated-MemeBot/master/out-23.png)
 
+Some of the results might be NSFW so use at your own discretion.
+
 Requires OpenCV
