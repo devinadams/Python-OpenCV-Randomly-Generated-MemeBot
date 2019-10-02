@@ -153,7 +153,7 @@ class MemeBot:
         self.getRandomTemplate()
 
     def mainLoop(self):
-        bannerz = banners.Banners()# create retarded banner class instance
+        bannerz = banners.Banners()
 
         print("""
 
